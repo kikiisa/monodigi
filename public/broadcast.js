@@ -39,9 +39,9 @@ Amplitude.init({
     "songs": [
 		{
 			"name": "Monodigi",
-			"artist": "Ridha Alvariza Anwar",
-			"album": "Politik Itu Bermuka Dua",
-			"url": "https://82d4-140-213-122-178.ap.ngrok.io/stream.ogg",
+			"artist": "Heroin",
+			"album": "Malam Minggu kelabu",
+			"url": "https://840d-182-1-165-31.ap.ngrok.io/stream",
 			"cover_art_url": "https://521dimensions.com/img/open-source/amplitudejs/album-art/soon-it-will-be-cold-enough.jpg"
 		},
     ]
