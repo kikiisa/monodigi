@@ -30,10 +30,10 @@ Amplitude.init({
     },
     "songs": [
 		{
-			"name": "beta",
-			"artist": "beta",
-			"album": "beta",
-			"url": "https://c4c4-182-1-177-20.ap.ngrok.io/stream",
+			"name": "Ngopi",
+			"artist": "Heroin dan Jingga Semu",
+			"album": "Ngobrol Perkara Isu",
+			"url": "https://fcc8-182-1-177-20.ap.ngrok.io/stream",
 			"cover_art_url": "https://521dimensions.com/img/open-source/amplitudejs/album-art/soon-it-will-be-cold-enough.jpg"
 		},
     ]
