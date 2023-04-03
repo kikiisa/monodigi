@@ -30,10 +30,10 @@ Amplitude.init({
     },
     "songs": [
 		{
-			"name": "offline",
+			"name": "tst",
 			"artist": "offline",
 			"album": "offline",
-			"url": "https://4a79-114-125-170-194.ap.ngrok.io/stream",
+			"url": "https://a2d9-140-213-122-211.ap.ngrok.io/stream",
 			"cover_art_url": "https://521dimensions.com/img/open-source/amplitudejs/album-art/soon-it-will-be-cold-enough.jpg"
 		},
     ]
